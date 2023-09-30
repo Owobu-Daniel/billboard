@@ -1,0 +1,122 @@
+.container {
+    width: 570px;
+    margin: auto;
+    padding-top: 5px;
+    background-color: rgb(2, 58, 2);
+}
+
+.between {
+    background-color: goldenrod;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+
+.plan {
+    color: orange;
+    font-family:  Verdana, Geneva, Tahoma, sans-serif;
+}
+
+
+.first_div {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+    font-weight:bolder;
+    font-size: 30px;
+    margin-bottom: 40;
+    padding-left: 15px;
+}
+
+.second_div {
+    color: white;
+    font-family: 'Courier New', Courier;    
+    padding-left: 15px;
+}
+
+.second_div h2 {
+    color: rgb(2, 58, 2);
+    background-color: white;
+    width: 360px;
+    border-radius: 8px;
+    font-size:50px ;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.second_div h3 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 30px;   
+    margin-bottom: 100px; 
+}
+
+.third_div {
+    width: 60%;
+}
+
+.third_div ul {
+    color: white;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    display: flex;
+}
+
+.icon_div {
+    padding-top: 5px;
+}
+
+.icon_div li {
+    margin-bottom: 2px;
+}
+
+.icon_name li {
+    margin-bottom: 12px;
+    font-size: 20px;
+}
+
+.third_div li {
+    padding-bottom: 15px;
+    list-style: none;
+}
+
+.third_div i {
+    background-color: yellow;
+    padding: 9px;
+    border-radius: 40px;
+    margin-right: 20px;
+    color: rgb(2, 58, 2);
+}
+
+.location_icon i {
+    margin-bottom: 15px;
+    padding: 9px 11px;
+    border-radius: 100px;
+}
+
+.third_div a {
+    text-decoration: none;
+    color: white;
+}
+
+.third_div h2{
+    background-color: yellow;
+    color: rgb(2, 58, 2); 
+    width: 165px;
+    border-radius: 5px;
+    padding: 5px 10px;
+    margin-left: 35px;
+}
+
+.image img {
+    width:  100%;
+}
+
+.fourth_div h2 {
+    background-color: goldenrod;
+    width: 570px;
+    font-size: 30px;
+    padding-top: 5px;
+    padding-bottom: 25px;
+    padding-right: 1px;
+    color: white;
+    margin-top: 0;
+}
+
